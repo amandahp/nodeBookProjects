@@ -1,8 +1,8 @@
-let src = 'Teste';
-console.log(str.length);
-console.log(str.toUpperCase());
-console.log(str.toLowerCase());
-str = '1';
-console.log(str.parseInt(str));
-str = '1.5';
-console.log(parseFloat(str));
+let vrbl = 'Teste';
+console.log(vrbl.length);
+console.log(vrbl.toUpperCase());
+console.log(vrbl.toLowerCase());
+vrbl = '1';
+console.log(parseInt(vrbl));
+vrbl = '1.5';
+console.log(parseFloat(vrbl));
